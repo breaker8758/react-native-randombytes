@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.name           = "react-native-randombytes"
   s.version        = package_json["version"]
   s.summary        = package_json["description"]
-  s.homepage       = "https://github.com/mvayngrib/react-native-randombytes"
+  s.homepage       = "https://github.com/breaker8758/react-native-randombytes"
   s.license        = package_json["license"]
   s.author         = { package_json["author"] => package_json["author"] }
   s.platform       = :ios, "7.0"

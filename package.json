@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mvayngrib/react-native-randombytes.git"
+    "url": "https://github.com/breaker8758/react-native-randombytes.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +22,6 @@
     "buffer": "^4.9.1",
     "sjcl": "^1.0.3"
   },
-  "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/mvayngrib)",
+  "author": "Mark Vayngrib <mark.vayngrib@lablz.com> (http://github.com/breaker8758)",
   "license": "ISC"
 }
