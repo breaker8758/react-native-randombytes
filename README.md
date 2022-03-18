@@ -1,6 +1,6 @@
 # react-native-randombytes
 
-react-native-randombytes 라이브러리의 이슈가 있는데, 수정하려는 의지가 보이지 않아 문제 되는 부분을 에러만 발생하지 않아 수정 후 재배포 합니다.
+react-native-randombytes 라이브러리의 이슈가 있는데, 수정하려는 의지가 보이지 않아 문제 되는 부분을 에러만 발생하지 않게 수정 후 재배포 합니다.
 - 원본 라이브러리 : https://github.com/mvayngrib/react-native-randombytes
 - 라이브러리 이슈 : https://github.com/mvayngrib/react-native-randombytes/issues/40
 
